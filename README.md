@@ -6,3 +6,4 @@ Packages & Framworks & Dependencies
 - colors
 - bcryptjs
 - nodemon
+- express-async-handler
