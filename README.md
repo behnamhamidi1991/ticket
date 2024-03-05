@@ -6,6 +6,7 @@
 - dotenv
 - colors
 - bcryptjs
+- express-async-handler
 
 `git commands:`
 
