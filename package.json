@@ -1,0 +1,12 @@
+{
+  "name": "support-ticket-ap",
+  "version": "1.0.0",
+  "description": "`Packages I use:`",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "Behnam Hamidi",
+  "license": "TM"
+}
