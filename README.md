@@ -7,6 +7,7 @@
 - colors
 - bcryptjs
 - express-async-handler
+- jsonwebtoken
 
 `git commands:`
 
