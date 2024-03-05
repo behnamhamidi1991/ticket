@@ -1,11 +1,1 @@
-Packages & Framworks & Dependencies
-
-- express
-- dotenv
-- mongoose
-- colors
-- bcryptjs
-- nodemon
-- express-async-handler
-
-07
+I start the project from the beginning.
