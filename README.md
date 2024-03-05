@@ -6,4 +6,8 @@
 - dotenv
 - colors
 - bcryptjs
--
+
+`git commands:`
+
+- git add .
+- git commit -m 'commit text ...'
